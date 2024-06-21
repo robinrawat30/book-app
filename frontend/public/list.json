@@ -1,0 +1,83 @@
+[
+
+    {
+
+        "id":1,
+        "name":"Zoo",
+        "title":"Zoo and Animal",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/reading-concept-with-hands_23-2147690507.jpg?t=st=1718870259~exp=1718873859~hmac=69df5239f1f1d0dcd2f67cc2cf9b0f986e48557eb6d17b82c6dec1330fba4049&w=996"
+
+
+    },
+
+    {
+
+        "id":2,
+        "name":"Zoo",
+        "title":"Zoo and Animal",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/reading-concept-with-hands_23-2147690507.jpg?t=st=1718870259~exp=1718873859~hmac=69df5239f1f1d0dcd2f67cc2cf9b0f986e48557eb6d17b82c6dec1330fba4049&w=996"
+
+
+    },
+    
+
+    {
+
+        "id":3,
+        "name":"Zoo",
+        "title":"Zoo and Animal",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/reading-concept-with-hands_23-2147690507.jpg?t=st=1718870259~exp=1718873859~hmac=69df5239f1f1d0dcd2f67cc2cf9b0f986e48557eb6d17b82c6dec1330fba4049&w=996"
+
+
+    },
+    
+
+    {
+
+        "id":4,
+        "name":"Zoo",
+        "title":"Zoo and Animal",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/reading-concept-with-hands_23-2147690507.jpg?t=st=1718870259~exp=1718873859~hmac=69df5239f1f1d0dcd2f67cc2cf9b0f986e48557eb6d17b82c6dec1330fba4049&w=996"
+
+
+    },
+    
+
+    {
+
+        "id":5,
+        "name":"Zoo",
+        "title":"Zoo and Animal",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/reading-concept-with-hands_23-2147690507.jpg?t=st=1718870259~exp=1718873859~hmac=69df5239f1f1d0dcd2f67cc2cf9b0f986e48557eb6d17b82c6dec1330fba4049&w=996"
+
+
+    },
+    
+
+    {
+
+        "id":5,
+        "name":"Zoo",
+        "title":"Zoo and Animal",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/reading-concept-with-hands_23-2147690507.jpg?t=st=1718870259~exp=1718873859~hmac=69df5239f1f1d0dcd2f67cc2cf9b0f986e48557eb6d17b82c6dec1330fba4049&w=996"
+
+
+    }
+    
+
+
+
+
+]
